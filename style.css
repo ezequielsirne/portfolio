@@ -104,3 +104,7 @@
     background-color: #FFFFFF;
     margin: 25px auto;
 }
+
+small img {
+    max-height: 29px;
+}
